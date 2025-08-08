@@ -1,48 +1,62 @@
-# Hi there! 👋 Welcome to my GitHub!
+# Alexis Hernandez  
 
-I'm a freshman at Georgia State University, pursuing a Bachelor's degree in Computer Science. I'm deeply passionate about web development, exploring front-end, back-end, and full-stack possibilities. Python is my primary language, and I’m actively building my skills across a variety of tech stacks.
+**Computer Science Student | Full-Stack Developer | AI & Automation Enthusiast**  
+📍 Brookhaven, GA | 📧 [ah91648@gmail.com](mailto:ah91648@gmail.com) | 🌐 [LinkedIn](https://linkedin.com/in/alexishernandez28) | 💻 [GitHub](https://github.com/AlexisHernandez24)  
 
-### 💡 About Me
-- **Student at**: Georgia State University
-- **Major**: Computer Science
-- **Year**: Freshman
+---
 
-### 👨‍💻 What I’m Working On
-- Building a solid foundation in Computer Science and expanding my skills in **Python**
-- Exploring **web development** with a focus on full-stack applications
-- Learning about open-source software and making my own contributions!
+## About Me  
+I am a **Computer Science student at Georgia State University** with a proven ability to design, develop, and deploy **full-stack applications**, **automation tools**, and **AI-driven solutions**. My work focuses on **real-world problem solving**, **secure system architecture**, and **scalable design**. I have experience collaborating with teams and managing projects from concept to deployment, with a strong emphasis on **efficiency, accuracy, and user experience**.  
 
-### ⚡ Technologies I’m Familiar With
-- **Languages**: Python
-- **Web Development**: HTML, CSS, JavaScript (Learning more every day)
-- **Interests**: Full-stack development, web frameworks, APIs
+---
 
-### 🔭 Projects
-I’m always excited to create new projects that solve real-world problems or spark creativity! Check out my pinned repositories for my latest work.
+## Featured Projects  
 
-### 📚 Learning Goals
-- Delve deeper into **Python** and become proficient in more advanced topics
-- Master web frameworks like **Django** and **Flask**
-- Strengthen my back-end knowledge and work towards becoming a well-rounded full-stack developer
+### **SmartSpend – AI-Powered Budget Tracking for Couples**  
+*React, Node.js, Express, PostgreSQL, Tailwind CSS, Chart.js, Recharts, JWT, Machine Learning*  
+- Developed a full-stack financial tracking platform for personal and shared budgets with **real-time analytics** and **machine learning insights**.  
+- Implemented advanced ML features including **forecasting, clustering, and anomaly detection** to optimize financial decision-making.  
+- Built secure backend APIs with **JWT authentication**, bcrypt encryption, input validation, and rate limiting.  
 
-### 🌱 Open-Source Goals
-I’m passionate about open-source contributions and aim to publish projects that reflect my journey and growth. My preferred license restricts others from taking credit for my work but encourages learning and collaboration.
+---
 
-### 🤝 Let’s Connect!
-I love connecting with others who are passionate about technology, learning, and coding. Feel free to reach out!
+### **FinWiseAI – AI Financial Planning Platform**  
+*TypeScript, Next.js, Tailwind CSS, Zustand, OpenAI API, Plaid API*  
+- Created an AI-driven application providing **budget optimization**, **investment recommendations**, and **predictive analytics**.  
+- Integrated **Plaid API** for secure financial data access and **OpenAI** for intelligent financial insights.  
+- Designed a **scalable architecture** with reusable components and state management for future expansion.  
 
+---
 
-<!--
-**AlexisHernandez24/AlexisHernandez24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **HRST Data Automation Tool**  
+*Python, Selenium, OpenPyXL*  
+- Engineered an automated system to process and validate **healthcare client data**, reducing manual work and increasing accuracy.  
+- Automated **web-based data extraction** with Selenium and streamlined **Excel data cleaning** with OpenPyXL.  
+- Improved compliance and efficiency in data management for up to **250 clients annually**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills  
+**Languages:** Python, TypeScript, JavaScript (ES6+), SQL  
+**Frontend:** React, Next.js, Tailwind CSS, Radix UI, Chart.js, Recharts  
+**Backend:** Node.js, Express.js, RESTful API Development  
+**Databases:** PostgreSQL  
+**Automation:** Selenium, OpenPyXL  
+**Machine Learning:** Linear Regression, K-Means Clustering, Time Series Analysis, Anomaly Detection  
+**APIs & Integrations:** OpenAI API, Plaid API  
+**Security:** JWT Authentication, bcrypt, HTTPS, Rate Limiting, Input Validation  
+**Tools & Practices:** Git, Zustand, Jest, React Testing Library  
+
+---
+
+## Education  
+**Georgia State University** – Bachelor of Science in Computer Science *(Expected May 2028)*  
+- GPA: **4.06**, Dean’s List (Fall 2024), President’s List (Spring 2025)  
+- GSU Excellence Scholarship Recipient  
+
+---
+
+## Let’s Connect  
+📧 **[ah91648@gmail.com](mailto:ah91648@gmail.com)**  
+💼 **[LinkedIn](https://linkedin.com/in/alexishernandez28)**  
+💻 **[GitHub](https://github.com/AlexisHernandez24)**  
